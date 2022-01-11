@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there, it's momo.👋
 
+![Snake gif](https://github.com/lordmomo/lordmomo/blob/main/output/github-contribution-grid-snake.gif)
 <!--
 **lordmomo/lordmomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
