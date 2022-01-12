@@ -11,8 +11,8 @@ on:
     branches:
       - main
   schedule:
-      # every day at 1:30 pm
-    - cron: "*/30 13 * * *"
+      # every wednesday at 1:30 pm 
+    - cron: "*/30 13 * * 3"
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
