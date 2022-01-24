@@ -1,6 +1,6 @@
 ### Hi there, it's Sashank.👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=lordmomo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=lordmomo&&show_icons=true&title_color=4eb5d4&icon_color=bb4ed4&text_color=daf7dc&bg_color=151515">
 
 ![Snake gif](https://github.com/lordmomo/lordmomo/blob/main/output/github-contribution-grid-snake.gif)
 
