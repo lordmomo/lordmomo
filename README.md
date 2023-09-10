@@ -6,11 +6,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on app development
-- 🌱 I’m currently learning Android Development
-- 👯 I’m looking to collaborate on front-end development
-- 🤔 I’m looking for help with back-end development.
-- 💬 Ask me about Python or Android Development
+- 🔭 I’m currently working on data analysis.
+- 🌱 I’m currently learning cloud computing.
+- 👯 I’m looking to collaborate on data analaytics and visualization.
+- 🤔 I’m looking for help with cloud computing.
+- 💬 Ask me about Python and data analytics.
 - 📫 How to reach me: email
 - 😄 Pronouns: He
 - ⚡ Fun fact: Keep guessing
